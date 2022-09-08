@@ -1,0 +1,46 @@
+
+body{
+    background-color: rgb(214, 206, 206);
+    align-items: center;
+justify-content: center;
+display:flex;
+}
+.cover{
+    width: 900px;
+    height: 400px;
+    margin-top: 50px;
+    display:flex;
+
+}
+.box{
+    margin: 60px;
+    width: 920px;
+    height: 290px;
+    box-shadow: 12px 0 9px #3d3d3d;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+P{
+    color: rgb(0, 0, 0);
+}
+b{
+    color: rgb(0, 119, 255);
+}
+abbr{
+    color:rgb(140, 0, 255);
+}
+i{
+    color:rgb(0, 119, 255);
+}
+strong{
+    color: rgb(0, 128, 255);
+}
+q{
+    color:rgb(0, 119, 255);
+}
+
+ img{
+    width: 320px;
+    height: 260px;
+}
