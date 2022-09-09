@@ -3,7 +3,8 @@
 
 Projekti  me Html5 + CSS 
 Titulli:
-Qytetet me te mira ne Gjermani.
+Qytetet me te bukura ne Gjermani.
+
 Permbajta:
 Projekti permban Tagje Etiketa Titull Atributte Linqe dhe  3 fotografi secila fotografi ka nga nje pershkirm.
 
