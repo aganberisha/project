@@ -2,7 +2,9 @@
 # Projekt individual
 
 Projekti  me Html5 + CSS 
+
 Titulli:
+
 Qytetet me te bukura ne Gjermani.
 
 Permbajta:
